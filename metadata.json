@@ -1,0 +1,6 @@
+{
+  "name": "MG Travels AI – Personalized Travel Recommendation System",
+  "description": "Comprehensive AI-powered travel intelligence platform featuring Content Creator & Reel Maker Studio with transparent entry price tags, camera fees, drone rules, photo/video galleries, nature soundscape audio & particle animations, user login/registration, day-wise itinerary PDF generation, and strict budget compliance recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
